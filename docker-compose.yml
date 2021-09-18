@@ -1,0 +1,11 @@
+version: "2.1"
+
+services:
+  vinted-discord-bot:
+    image: node:16.6-alpine
+    restart: always
+    user: "node"
+    working_dir: /home/node/app
+    volumes:
+      - .:/home/node/app
+    command: "node index.js"
