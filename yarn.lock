@@ -1062,6 +1062,7 @@
     "ws" "^7.5.1"
 
 "discord.js@discordjs/discord.js#refs/pull/6414/head":
+  "integrity" "sha512-9V+4T3Sl2ykZbZy2bhNqUDM/x4KrlQ4/GZ7shaB0lFn1JDwEDk1PSG1H2QjPX1oQp/PcLt0BZzgXb+CMmnKcCw=="
   "resolved" "git+ssh://git@github.com/discordjs/discord.js.git#b2ef10fdd742aa08da3a33b2cf35f0f2350e915a"
   "version" "13.2.0-dev"
   dependencies:
@@ -2555,10 +2556,10 @@
   "resolved" "https://registry.npmjs.org/vali-date/-/vali-date-1.0.0.tgz"
   "version" "1.0.0"
 
-"vinted-api@^2.4.0":
-  "integrity" "sha512-7pL7XURVfyx9L0PgUT6qqTWmfX9cmq/pSzEuLQ3tILMRuh2PKgEiWRbkGv5Vk0WI16zeD7cPlLRkiSoV3Bqrkw=="
-  "resolved" "https://registry.npmjs.org/vinted-api/-/vinted-api-2.4.0.tgz"
-  "version" "2.4.0"
+"vinted-api@^2.5.0":
+  "integrity" "sha512-n9Ij0rVBMJneMKosDmvkX78rpjOhL2Jf/43sotv2KpAm8D8PwUylaymwitocMS1C9+JSA4yKHJvy3bH1diUsxA=="
+  "resolved" "https://registry.npmjs.org/vinted-api/-/vinted-api-2.5.0.tgz"
+  "version" "2.5.0"
   dependencies:
     "cookie" "^0.4.1"
     "jest" "^27.0.6"
